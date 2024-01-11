@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Dec  7 12:47:04 2023
+# Process ID: 1556
+# Current directory: C:/Users/Sami/Documents/vhdl/project_6/project_6.runs/impl_1
+# Command line: vivado.exe -log hex_mux_test.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source hex_mux_test.tcl -notrace
+# Log file: C:/Users/Sami/Documents/vhdl/project_6/project_6.runs/impl_1/hex_mux_test.vdi
+# Journal file: C:/Users/Sami/Documents/vhdl/project_6/project_6.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source hex_mux_test.tcl -notrace
