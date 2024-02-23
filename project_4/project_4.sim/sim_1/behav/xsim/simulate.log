@@ -1,5 +1,0 @@
-Vivado Simulator 2018.1
-Time resolution is 1 ps
-Failure: Simulation Completed
-Time: 800 ns  Iteration: 0  Process: /testbench/line__48  File: C:/Users/Sami/Documents/vhdl/project_4/project_4.srcs/sim_1/new/testbench.vhd
-$finish called at time : 800 ns : File "C:/Users/Sami/Documents/vhdl/project_4/project_4.srcs/sim_1/new/testbench.vhd" Line 68
